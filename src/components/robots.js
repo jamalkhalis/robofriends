@@ -1,3 +1,4 @@
+// we are using this file to test the app, and after we are using the API
 export const robots = [
 	{
 		id: 10,

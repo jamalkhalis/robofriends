@@ -1,9 +1,0 @@
-@font-face {
-  font-family: Soffia;
-  src: url('./SoffiaScript.otf'),
-       url('./SoffiaSlant.otf');
-}
-
-h1 {
-  font-family: Soffia;
-}
